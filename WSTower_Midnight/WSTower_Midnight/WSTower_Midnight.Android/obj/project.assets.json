@@ -1975,11 +1975,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\fic\\Desktop\\WSTower_Midnight\\WSTower_Midnight\\WSTower_Midnight.Android\\WSTower_Midnight.Android.csproj",
+      "projectUniqueName": "C:\\Users\\fic\\Desktop\\WSTower_MidnightApp\\WSTower_Midnight\\WSTower_Midnight\\WSTower_Midnight.Android\\WSTower_Midnight.Android.csproj",
       "projectName": "WSTower_Midnight.Android",
-      "projectPath": "C:\\Users\\fic\\Desktop\\WSTower_Midnight\\WSTower_Midnight\\WSTower_Midnight.Android\\WSTower_Midnight.Android.csproj",
+      "projectPath": "C:\\Users\\fic\\Desktop\\WSTower_MidnightApp\\WSTower_Midnight\\WSTower_Midnight\\WSTower_Midnight.Android\\WSTower_Midnight.Android.csproj",
       "packagesPath": "C:\\Users\\fic\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\fic\\Desktop\\WSTower_Midnight\\WSTower_Midnight\\WSTower_Midnight.Android\\obj\\",
+      "outputPath": "C:\\Users\\fic\\Desktop\\WSTower_MidnightApp\\WSTower_Midnight\\WSTower_Midnight\\WSTower_Midnight.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -2000,8 +2000,8 @@
       "frameworks": {
         "monoandroid90": {
           "projectReferences": {
-            "C:\\Users\\fic\\Desktop\\WSTower_Midnight\\WSTower_Midnight\\WSTower_Midnight\\WSTower_Midnight.csproj": {
-              "projectPath": "C:\\Users\\fic\\Desktop\\WSTower_Midnight\\WSTower_Midnight\\WSTower_Midnight\\WSTower_Midnight.csproj"
+            "C:\\Users\\fic\\Desktop\\WSTower_MidnightApp\\WSTower_Midnight\\WSTower_Midnight\\WSTower_Midnight\\WSTower_Midnight.csproj": {
+              "projectPath": "C:\\Users\\fic\\Desktop\\WSTower_MidnightApp\\WSTower_Midnight\\WSTower_Midnight\\WSTower_Midnight\\WSTower_Midnight.csproj"
             }
           }
         }

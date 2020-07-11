@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NZCh7f239XMaGc7D5ziBgND/IiBZIWR8we9Vvrg3XH5RmXPTUbei+IxqnkRrAhHsmtL3J74nAFi1wHW1H1bcRg==",
+  "dgSpecHash": "oQPfI7X5u23EA3VzT6Rs5ag5xfx0zgHfM4GIKBpTfEiMsnaeH7cFineKDxQPLyQU1/lNugoKa6jfLA2gTNgv1g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\fic\\Desktop\\WSTower_Midnight\\WSTower_Midnight\\WSTower_Midnight.Android\\WSTower_Midnight.Android.csproj",
+  "projectFilePath": "C:\\Users\\fic\\Desktop\\WSTower_MidnightApp\\WSTower_Midnight\\WSTower_Midnight\\WSTower_Midnight.Android\\WSTower_Midnight.Android.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\fic\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.android.arch.core.common\\1.1.1.3\\xamarin.android.arch.core.common.1.1.1.3.nupkg.sha512",

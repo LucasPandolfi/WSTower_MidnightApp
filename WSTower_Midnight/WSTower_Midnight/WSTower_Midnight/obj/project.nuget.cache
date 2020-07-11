@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lUCu75WbF9mtZU9hNGqZnDRuDgzHL+weGhslG1Bdk9rjA3d8RDE2hZ9iRnFav2Buo/qUHXiBF4s9RCby6TmVFw==",
+  "dgSpecHash": "qlSXo1DF5cnoHBR5QJD4daYSW+d+7xUhM+BgfojBFORzXmOa2BbTCbfP2CTCDaSd6jddiwkj7gPYZMJXMo0fFw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\fic\\Desktop\\WSTower_Midnight\\WSTower_Midnight\\WSTower_Midnight\\WSTower_Midnight.csproj",
+  "projectFilePath": "C:\\Users\\fic\\Desktop\\WSTower_MidnightApp\\WSTower_Midnight\\WSTower_Midnight\\WSTower_Midnight\\WSTower_Midnight.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\fic\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\fic\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
