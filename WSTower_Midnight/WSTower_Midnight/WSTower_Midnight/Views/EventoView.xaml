@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="WSTower_Midnight.Views.EventoView">
+    <ContentPage.Content>
+        <StackLayout Margin="20,35,20,20">
+            <Label Text="Bem vindo(a), fique a vontade e confira os melhores eventos de todos os tempos" 
+                VerticalOptions="CenterAndExpand" 
+                   HorizontalOptions="CenterAndExpand" />
+            
+            <ListView x:Name="ListaEventos">
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <!--Falta listar os itens que aparecerão na tela Precisamos Descobri como 
+                        chamar todos os itens ou quase todos da clase Evento.cs
+                        , creio que é por uma array-->
+                        <!--<TextCell Text="{Binding NomeEvento}"
+                                  Detail="{Binding LocalEvento}"/>-->
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+
+            <Button Text="Cadastrar Evento!!" VerticalOptions="CenterAndExpand" 
+                   HorizontalOptions="CenterAndExpand" Clicked="ButtonClicked_CadastrarEvento"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
