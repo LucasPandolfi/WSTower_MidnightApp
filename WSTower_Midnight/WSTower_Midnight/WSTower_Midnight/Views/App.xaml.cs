@@ -11,7 +11,7 @@ namespace WSTower_Midnight
         {
             InitializeComponent();
 
-            MainPage = new NavigationPage(new LoginView());
+            MainPage = new NavigationPage(new SobreView());
         }
 
         protected override void OnStart()

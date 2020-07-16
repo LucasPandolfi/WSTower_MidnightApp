@@ -7,12 +7,12 @@
              x:Class="WSTower_Midnight.Views.LoginView">
     <ContentPage.Content>
         <StackLayout>
-            <Label Text="Faça seu login" VerticalOptions="StartAndExpand" HorizontalOptions="CenterAndExpand"/>
-            <Entry Placeholder="Email" VerticalOptions="Start" Margin="5, 20, 5, 20" />
-            <Entry IsPassword="True" Placeholder="Senha" VerticalOptions="Start" Margin="5, 20, 5, 20" />
+            <Label Text="Faça login" FontSize="25" TextColor="Black" VerticalOptions="StartAndExpand" HorizontalOptions="CenterAndExpand"/>
+            <Entry Placeholder="Email" VerticalOptions="Center" Margin="5, 20, 5, 20" />
+            <Entry IsPassword="True" Placeholder="Senha" VerticalOptions="Center" Margin="5, 20, 5, 20" />
 
-            <Button Text="Logar" VerticalOptions="EndAndExpand" HorizontalOptions="CenterAndExpand" Clicked="ButtonClicked_Login"/>
-            <Button Text="Não Possui Cadastro?" VerticalOptions="EndAndExpand" HorizontalOptions="CenterAndExpand" Clicked="ButtonClicked_Cadastro"/>
+            <Button Text="Logar" VerticalOptions="StartAndExpand" HorizontalOptions="CenterAndExpand" Clicked="ButtonClicked_Login"/>
+            <Button Text="Cadastra-se?" VerticalOptions="StartAndExpand" HorizontalOptions="CenterAndExpand" Clicked="ButtonClicked_Cadastro"/>
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>

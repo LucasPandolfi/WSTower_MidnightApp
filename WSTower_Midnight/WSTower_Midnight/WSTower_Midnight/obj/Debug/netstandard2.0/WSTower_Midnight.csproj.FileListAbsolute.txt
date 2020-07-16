@@ -16,3 +16,4 @@ C:\Users\fic\Desktop\WSTower_MidnightApp\WSTower_Midnight\WSTower_Midnight\WSTow
 C:\Users\fic\Desktop\WSTower_MidnightApp\WSTower_Midnight\WSTower_Midnight\WSTower_Midnight\obj\Debug\netstandard2.0\WSTower_Midnight.dll
 C:\Users\fic\Desktop\WSTower_MidnightApp\WSTower_Midnight\WSTower_Midnight\WSTower_Midnight\obj\Debug\netstandard2.0\ref\WSTower_Midnight.dll
 C:\Users\fic\Desktop\WSTower_MidnightApp\WSTower_Midnight\WSTower_Midnight\WSTower_Midnight\obj\Debug\netstandard2.0\WSTower_Midnight.pdb
+C:\Users\fic\Desktop\WSTower_MidnightApp\WSTower_Midnight\WSTower_Midnight\WSTower_Midnight\obj\Debug\netstandard2.0\Views\SobreView.xaml.g.cs

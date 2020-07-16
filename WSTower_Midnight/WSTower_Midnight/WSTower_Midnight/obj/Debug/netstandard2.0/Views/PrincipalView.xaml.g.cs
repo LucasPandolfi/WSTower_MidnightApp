@@ -14,7 +14,7 @@ namespace WSTower_Midnight.Views {
     
     
     [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("Views\\PrincipalView.xaml")]
-    public partial class PrincipalView : global::Xamarin.Forms.ContentPage {
+    public partial class PrincipalView : global::Xamarin.Forms.MasterDetailPage {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "2.0.0.0")]
         private void InitializeComponent() {
